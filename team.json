@@ -1,0 +1,152 @@
+{
+  "member": [
+    {
+      "firstname": "Allan",
+      "lastname": "Pilarca",
+      "city": "Manila",
+      "country": "Philippines",
+      "twitter": "https://twitter.com/arpilarca",
+      "linkedin": "https://www.linkedin.com/in/arpilarca",
+      "github": "https://github.com/allanpilarca",
+      "image": "allan_pilarca.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Arunas",
+      "lastname": "Mazeika",
+      "city": "Nantes",
+      "country": "France",
+      "twitter": "http://www.twitter.com/arunasmazeika",
+      "linkedin": "http://www.linkedin.com/in/arunasmazeika",
+      "github": "http://www.github.com/amazeika",
+      "image": "arunas_mazeika.jpg",
+      "resume": true
+    },
+    {
+      "firstname": "Cameron",
+      "lastname": "Barr",
+      "city": "Ottawa",
+      "country": "Canada",
+      "twitter": "https://twitter.com/thecambarr",
+      "linkedin": "https://www.linkedin.com/in/cambarr",
+      "github": "https://github.com/magneticmg",
+      "image": "cameron_barr.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Dave",
+      "lastname": "Li",
+      "city": "Eindhoven",
+      "country": "Netherlands",
+      "twitter": "https://twitter.com/@holeedave",
+      "linkedin": "http://nl.linkedin.com/in/daveli",
+      "github": "https://github.com/daveli",
+      "image": "dave_li.jpg",
+      "resume": true
+    },
+    {
+      "firstname": "Ercan",
+      "lastname": "Özkaya",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "twitter": "http://www.twitter.com/ercanozkaya",
+      "linkedin": "http://www.linkedin.com/in/ercanozkaya",
+      "github": "http://www.github.com/ercanozkaya",
+      "image": "ercan_ozkaya.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Johan",
+      "lastname": "Janssens",
+      "city": "Diest",
+      "country": "Belgium",
+      "twitter": "https://twitter.com/johanjanssens",
+      "linkedin": "http://www.linkedin.com/in/janssensjohan",
+      "github": "https://github.com/johanjanssens",
+      "image": "johan_janssens.jpg",
+      "resume": true
+    },
+    {
+      "firstname": "Nick",
+      "lastname": "Balestra",
+      "city": "Muralto",
+      "country": "Switzerland",
+      "twitter": "https://twitter.com/@nickbalestra",
+      "linkedin": "https://www.linkedin.com/profile/view?id=58069366",
+      "github": "https://github.com/nickbalestra",
+      "image": "nick_balestra.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Paul",
+      "lastname": "Yiend",
+      "city": "Sheffield",
+      "country": "England",
+      "twitter": "https://twitter.com/yiendos",
+      "github": "https://github.com/paulAtTimble",
+      "image": "paul_yiend.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Rael",
+      "lastname": "Canasa",
+      "city": "Manila",
+      "country": "Philippines",
+      "twitter": "https://twitter.com/raeldc",
+      "linkedin": "https://www.linkedin.com/in/raeldc",
+      "github": "https://github.com/raeldc",
+      "image": "rael_canasa.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Rastin",
+      "lastname": "Mehr",
+      "city": "Vancouver",
+      "country": "Canada",
+      "twitter": "https://twitter.com/rastin",
+      "linkedin": "https://ca.linkedin.com/in/rastin",
+      "github": "https://github.com/rmdstudio",
+      "image": "rastin_mehr.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Robin",
+      "lastname": "Poort",
+      "city": "Utrecht",
+      "country": "Netherlands",
+      "twitter": "https://twitter.com/rhcpoort",
+      "linkedin": "http://www.linkedin.com/in/robinpoort",
+      "github": "https://github.com/robinpoort",
+      "image": "robin_poort.jpg",
+      "resume": true
+    },
+    {
+      "firstname": "Steven",
+      "lastname": "Rombauts",
+      "city": "Cambridge",
+      "country": "England",
+      "twitter": "https://twitter.com/stevenrombauts",
+      "github": "https://github.com/stevenrombauts",
+      "image": "steven_rombauts.jpg",
+      "resume": true
+    },
+    {
+      "firstname": "Tom",
+      "lastname": "Janssens",
+      "city": "Diest",
+      "country": "Belgium",
+      "twitter": "http://www.twitter.com/janssenstom",
+      "linkedin": "http://www.linkedin.com/in/tomjanssensme",
+      "github": "http://www.github.com/tomjanssens",
+      "image": "tom_janssens.jpg",
+      "resume": true
+    },
+    {
+      "firstname": "We're",
+      "lastname": "Hiring!",
+      "country": "Planet Earth",
+      "image": "hiring.png",
+      "resume": false
+    }
+  ]
+}
