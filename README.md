@@ -1,2 +1,8 @@
 # Timble - Team
-Things that don't belong anywhere else.
+
+JSON stream & avatars of our team members.
+
+Used on:
+
+- http://www.timble.net/about/
+- https://www.joomlatools.com/about/ & https://www.joomlatools.com/enterprise/
