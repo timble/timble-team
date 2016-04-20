@@ -16,9 +16,9 @@
       "lastname": "Mazeika",
       "city": "Nantes",
       "country": "France",
-      "twitter": "http://www.twitter.com/arunasmazeika",
-      "linkedin": "http://www.linkedin.com/in/arunasmazeika",
-      "github": "http://www.github.com/amazeika",
+      "twitter": "https://twitter.com/arunasmazeika",
+      "linkedin": "https://www.linkedin.com/in/arunasmazeika",
+      "github": "https://github.com/amazeika",
       "image": "arunas_mazeika.jpg",
       "resume": true
     },
@@ -39,7 +39,7 @@
       "city": "Eindhoven",
       "country": "Netherlands",
       "twitter": "https://twitter.com/@holeedave",
-      "linkedin": "http://nl.linkedin.com/in/daveli",
+      "linkedin": "https://nl.linkedin.com/in/daveli",
       "github": "https://github.com/daveli",
       "image": "dave_li.jpg",
       "resume": true
@@ -49,10 +49,21 @@
       "lastname": "Özkaya",
       "city": "Istanbul",
       "country": "Turkey",
-      "twitter": "http://www.twitter.com/ercanozkaya",
-      "linkedin": "http://www.linkedin.com/in/ercanozkaya",
-      "github": "http://www.github.com/ercanozkaya",
+      "twitter": "https://twitter.com/ercanozkaya",
+      "linkedin": "https://www.linkedin.com/in/ercanozkaya",
+      "github": "https://github.com/ercanozkaya",
       "image": "ercan_ozkaya.jpg",
+      "resume": false
+    },
+    {
+      "firstname": "Jebb",
+      "lastname": "Domingo",
+      "city": "Manila",
+      "country": "Philippines",
+      "twitter": "https://twitter.com/jeboy",
+      "linkedin": "https://www.linkedin.com/in/jebbdomingo",
+      "github": "https://github.com/jebbdomingo",
+      "image": "jebb_domingo.jpg",
       "resume": false
     },
     {
@@ -61,7 +72,7 @@
       "city": "Diest",
       "country": "Belgium",
       "twitter": "https://twitter.com/johanjanssens",
-      "linkedin": "http://www.linkedin.com/in/janssensjohan",
+      "linkedin": "https://www.linkedin.com/in/janssensjohan",
       "github": "https://github.com/johanjanssens",
       "image": "johan_janssens.jpg",
       "resume": true
@@ -115,7 +126,7 @@
       "city": "Utrecht",
       "country": "Netherlands",
       "twitter": "https://twitter.com/rhcpoort",
-      "linkedin": "http://www.linkedin.com/in/robinpoort",
+      "linkedin": "https://www.linkedin.com/in/robinpoort",
       "github": "https://github.com/robinpoort",
       "image": "robin_poort.jpg",
       "resume": true
@@ -135,9 +146,9 @@
       "lastname": "Janssens",
       "city": "Diest",
       "country": "Belgium",
-      "twitter": "http://www.twitter.com/janssenstom",
-      "linkedin": "http://www.linkedin.com/in/tomjanssensme",
-      "github": "http://www.github.com/tomjanssens",
+      "twitter": "https://twitter.com/janssenstom",
+      "linkedin": "https://www.linkedin.com/in/tomjanssensme",
+      "github": "https://github.com/tomjanssens",
       "image": "tom_janssens.jpg",
       "resume": true
     },
