@@ -56,17 +56,6 @@
       "resume": true
     },
     {
-      "firstname": "Nick",
-      "lastname": "Balestra",
-      "city": "Muralto",
-      "country": "Switzerland",
-      "twitter": "https://twitter.com/@nickbalestra",
-      "linkedin": "https://www.linkedin.com/profile/view?id=58069366",
-      "github": "https://github.com/nickbalestra",
-      "image": "nick_balestra.jpg",
-      "resume": false
-    },
-    {
       "firstname": "Paul",
       "lastname": "Yiend",
       "city": "Sheffield",
