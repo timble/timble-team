@@ -23,28 +23,6 @@
       "resume": true
     },
     {
-      "firstname": "Cameron",
-      "lastname": "Barr",
-      "city": "Ottawa",
-      "country": "Canada",
-      "twitter": "https://twitter.com/thecambarr",
-      "linkedin": "https://www.linkedin.com/in/cambarr",
-      "github": "https://github.com/magneticmg",
-      "image": "cameron_barr.jpg",
-      "resume": false
-    },
-    {
-      "firstname": "Dave",
-      "lastname": "Li",
-      "city": "Eindhoven",
-      "country": "Netherlands",
-      "twitter": "https://twitter.com/@holeedave",
-      "linkedin": "https://nl.linkedin.com/in/daveli",
-      "github": "https://github.com/daveli",
-      "image": "dave_li.jpg",
-      "resume": true
-    },
-    {
       "firstname": "Ercan",
       "lastname": "Özkaya",
       "city": "Istanbul",
