@@ -1,6 +1,17 @@
 {
   "member": [
     {
+    "firstname": "Edward",
+    "lastname": "Magbago",
+    "city": "Manila",
+    "country": "Philippines",
+    "twitter": "https://twitter.com/edwardmagbago",
+    "linkedin": "",
+    "github": "https://github.com/edwardmagbago",
+    "image": "edward_magbago.jpg",
+    "resume": false
+    },
+    {
       "firstname": "Allan",
       "lastname": "Pilarca",
       "city": "Manila",
