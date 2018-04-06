@@ -1,0 +1,15 @@
+{
+  "name": "timble-team",
+  "version": "1.7.0",
+  "description": "Timble Team",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timble/timble-team.git"
+  },
+  "author": "Timble CVBA <info@timble.net> (https://www.timble.net)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/timble/timble-team/issues"
+  },
+  "homepage": "https://github.com/timble/timble-team#readme"
+}
