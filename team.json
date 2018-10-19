@@ -1,6 +1,15 @@
 {
   "member": [
     {
+      "firstname": "Denise",
+      "lastname": "Zamora",
+      "city": "Manila",
+      "country": "Philippines",
+      "github": "https://github.com/denisezamora",
+      "image": "denise_zamora.jpg",
+      "resume": false
+    },
+    {
     "firstname": "Edward",
     "lastname": "Magbago",
     "city": "Manila",
