@@ -10,15 +10,14 @@
       "resume": false
     },
     {
-    "firstname": "Edward",
-    "lastname": "Magbago",
-    "city": "Manila",
-    "country": "Philippines",
-    "twitter": "https://twitter.com/edwardmagbago",
-    "linkedin": "",
-    "github": "https://github.com/edwardmagbago",
-    "image": "edward_magbago.jpg",
-    "resume": false
+      "firstname": "Edward",
+      "lastname": "Magbago",
+      "city": "Manila",
+      "country": "Philippines",
+      "twitter": "https://twitter.com/edwardmagbago",
+      "github": "https://github.com/edwardmagbago",
+      "image": "edward_magbago.jpg",
+      "resume": false
     },
     {
       "firstname": "Allan",
@@ -110,7 +109,7 @@
     {
       "firstname": "Robin",
       "lastname": "Poort",
-      "city": "Utrecht",
+      "city": "Hilversum",
       "country": "Netherlands",
       "twitter": "https://twitter.com/rhcpoort",
       "linkedin": "https://www.linkedin.com/in/robinpoort",
@@ -121,23 +120,23 @@
     {
       "firstname": "Steven",
       "lastname": "Rombauts",
-      "city": "Cambridge",
-      "country": "England",
+      "city": "Leuven",
+      "country": "Belgium",
       "twitter": "https://twitter.com/stevenrombauts",
       "github": "https://github.com/stevenrombauts",
       "image": "steven_rombauts.jpg",
       "resume": true
     },
     {
-      "firstname": "Tom",
-      "lastname": "Janssens",
-      "city": "Diest",
-      "country": "Belgium",
-      "twitter": "https://twitter.com/janssenstom",
-      "linkedin": "https://www.linkedin.com/in/tomjanssensme",
-      "github": "https://github.com/tomjanssens",
-      "image": "tom_janssens.jpg",
-      "resume": true
+      "firstname": "Waseem",
+      "lastname": "Sadiq",
+      "city": "Glasgow",
+      "country": "Scotland",
+      "twitter": "https://twitter.com/waseem_sadiq",
+      "linkedin": "https://www.linkedin.com/in/waseemsadiq2202/",
+      "github": "https://github.com/waseemsadiq",
+      "image": "waseem_sadiq.jpg",
+      "resume": false
     },
     {
       "firstname": "We're",
